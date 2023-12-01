@@ -6,8 +6,8 @@ I'm Edward, a fourth-year student at CentraleSupélec in Paris-Saclay University
 
 I'm well-versed in:
 
-- **Programming Languages:** Python, SQL, HTML, JavaScript
-- **Frontend Development:** HTML, CSS, JavaScript, React
+- **Programming Languages:** Python, JavaScript
+- **Frontend Development:** HTML, CSS, React
 - **Mobile Development:** React Native
 - **Database Management:** SQL
 
