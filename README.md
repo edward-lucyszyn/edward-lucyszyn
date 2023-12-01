@@ -33,7 +33,7 @@ I'm well-versed in:
 5. **Algorithm for a Game Called 'Pyramid'**
    - Coded a heuristic for the game.
 
-6. **Project: A Mini Blockchain**
+6. **Mini Blockchain**
    - Created a minimum viable product (MVP) of a blockchain following the Understanding Blockchain course with 5 other people.
    - [BikeChain](https://github.com/edward-lucyszyn/understand-blockchain-project)
 
