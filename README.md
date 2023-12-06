@@ -16,7 +16,7 @@ I'm well-versed in:
 1. **Acoustic Pollution Control and Ruppert Algorithm**
    - Created a Ruppert algorithm from scratch in Python.
    - Analyzed solutions and eigenvalues of the Helmholtz equation.
-   - [Ruppert Algorithm and acoustic pollution control](https://github.com/edward-lucyszyn/acoustic-pollution-control)
+   - [Ruppert Algorithm and Acoustic Pollution Control](https://github.com/edward-lucyszyn/acoustic-pollution-control)
 
 2. **Capped Project of Acoustic Pollution Control**
    - Given a precise quantity of porous material, found the optimal location to reduce noise.
