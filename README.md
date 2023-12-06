@@ -46,7 +46,7 @@ Here are some projects that I am proud to have worked on or am currently working
 
 ## 💬 Let's Connect
 
-I'm always up for interesting discussions and collaborations. Connect with me on:
+Connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/edward-lucyszyn-896717247/)
 
