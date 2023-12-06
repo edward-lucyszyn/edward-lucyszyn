@@ -21,7 +21,7 @@ I'm well-versed in:
 2. **Capped Project of Acoustic Pollution Control**
    - Given a precise quantity of porous material, found the optimal location to reduce noise.
 
-3. **Predicting Stocks Behavior with an Agent Based Model (ACD) Model**
+3. **Predicting Stocks Behavior with an Agent Based Model (ABM) Model**
    - Computed the best coefficients to make the model fit real-world stock changes over the past 10 years.
    - Analyzed investment strategies employed over the past five decades.
    - Tested our model with recent data, achieving an accuracy rate of 60%.
