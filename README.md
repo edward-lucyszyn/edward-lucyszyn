@@ -13,10 +13,12 @@ I'm well-versed in:
 
 ## 🚀 Projects
 
-1. **Acoustic Pollution Control and Ruppert Algorithm**
+Here are some projects that I am proud to have worked on or am currently working on:
+
+09/2023 -> 11/2023 - **Acoustic Pollution Control: Solving Helmholtz equation and Ruppert Algorithm**
    - Created a Ruppert algorithm from scratch in Python.
    - Analyzed solutions and eigenvalues of the Helmholtz equation.
-   - [Ruppert Algorithm and Acoustic Pollution Control](https://github.com/edward-lucyszyn/acoustic-pollution-control)
+   - [Solving Helmholtz equation and Ruppert Algorithm](https://github.com/edward-lucyszyn/acoustic-pollution-control)
 
 2. **Capped Project of Acoustic Pollution Control**
    - Given a precise quantity of porous material, found the optimal location to reduce noise.
@@ -25,6 +27,7 @@ I'm well-versed in:
    - Computed the best coefficients to make the model fit real-world stock changes over the past 10 years.
    - Analyzed investment strategies employed over the past five decades.
    - Tested our model with recent data, achieving an accuracy rate of 60%.
+   - [Predicting Stocks Behavior: Agent Based Model Calibration](https://github.com/edward-lucyszyn/agent-based-model-calibration)
 
 4. **Analysis of Road Traffic Around Paris-Saclay University**
    - Used a program called SUMO - Simulation of Urban Mobility.
@@ -32,6 +35,7 @@ I'm well-versed in:
 
 5. **Algorithm for a Game Called 'Pylos'**
    - Coded a heuristic for the game.
+   - [Winning Algorithm for the game Pylos](https://github.com/edward-lucyszyn/algorithm-for-pylos)
 
 6. **Mini Blockchain**
    - Created a minimum viable product (MVP) of a blockchain following the Understanding Blockchain course with 5 other people.
