@@ -30,7 +30,7 @@ I'm well-versed in:
    - Used a program called SUMO - Simulation of Urban Mobility.
    - Analyzed traffic jams and created new roads to reduce average travel time.
 
-5. **Algorithm for a Game Called 'Pyramid'**
+5. **Algorithm for a Game Called 'Pylos'**
    - Coded a heuristic for the game.
 
 6. **Mini Blockchain**
