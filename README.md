@@ -10,24 +10,6 @@ I am currently pursuing a Master of Science in Management Science and Engineerin
 
 I am actively seeking a summer internship in finance or software engineering.
 
----
-
-### Projects
-
-#### 1. **Stochastic Finance Risk Modeling Project**
-
-![Markowitz Frontier](assets/marko_frontier_alloc.png)
-
-As part of my coursework at CentraleSupélec, I worked on a project that aimed to optimize an investment portfolio using financial data. With a team, we applied **Markowitz's portfolio theory** to maximize returns while minimizing risk, analyzing data from the **S&P 500**. We evaluated risk through measures such as **Expected Shortfall** and **Entropic Value at Risk**. Our findings provided insights into managing risk under extreme market conditions. This project was carried out in collaboration with BNP Paribas Asset Management.
-
-#### 2. **Pylos AI Player**
-
-![Pyramid Game](https://www.artofplay.com/cdn/shop/products/PylosGame-1.png?v=1636415893&width=1000)
-
-For the course "Computational Approach to Games" at CentraleSupélec, I developed an AI player for the **Pylos** board game using the **ALPHABETA algorithm**. The project involved implementing a heuristic function to optimize the AI's strategy and improve its performance. I was awarded one of the highest grades in this project, indicating the effectiveness of the AI I developed.
-
----
-
 ### Skills
 - Python
 - SQL
@@ -36,3 +18,21 @@ For the course "Computational Approach to Games" at CentraleSupélec, I develope
 - Dart
 - JavaScript
 - React Native
+
+---
+
+### Projects
+
+#### 1. **Stochastic Finance Risk Modeling Project**
+
+![Markowitz Frontier]([portfolio-optimization/assets/marko_frontier_alloc.png])
+
+As part of my coursework at CentraleSupélec, I worked on a project that aimed to optimize an investment portfolio using financial data. With a team, we applied **Markowitz's portfolio theory** to maximize returns while minimizing risk, analyzing data from the **S&P 500**. We evaluated risk through measures such as **Expected Shortfall** and **Entropic Value at Risk**. Our findings provided insights into managing risk under extreme market conditions. This project was carried out in collaboration with BNP Paribas Asset Management.
+
+#### 2. **Pylos AI Player**
+
+<img src="https://www.artofplay.com/cdn/shop/products/PylosGame-1.png?v=1636415893&width=500" alt="Pyramid Game" width="300"/>
+
+For the course "Computational Approach to Games" at CentraleSupélec, I developed an AI player for the **Pylos** board game using the **ALPHABETA algorithm**. The project involved implementing a heuristic function to optimize the AI's strategy and improve its performance. I was awarded one of the highest grades in this project, indicating the effectiveness of the AI I developed.
+
+---
