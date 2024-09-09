@@ -21,17 +21,19 @@ I am actively seeking a summer internship in finance or software engineering.
 
 ---
 
-### Projects
+## Projects
 
-#### 1. **Stochastic Finance Risk Modeling Project**
+### **Stochastic Finance Risk Modeling Project - Feb to Apr 2024**
 
-![Markowitz Frontier]([portfolio-optimization/assets/marko_frontier_alloc.png])
+![Stochastic Finance](https://raw.githubusercontent.com/edward-lucyszyn/portfolio-optimization/main/assets/marko_frontier_alloc.png)
 
-As part of my coursework at CentraleSupélec, I worked on a project that aimed to optimize an investment portfolio using financial data. With a team, we applied **Markowitz's portfolio theory** to maximize returns while minimizing risk, analyzing data from the **S&P 500**. We evaluated risk through measures such as **Expected Shortfall** and **Entropic Value at Risk**. Our findings provided insights into managing risk under extreme market conditions. This project was carried out in collaboration with BNP Paribas Asset Management.
+As part of my coursework at CentraleSupélec, I worked on a project that aimed to optimize an investment portfolio using financial data. With a team, we applied **Markowitz's portfolio theory** to maximize returns while minimizing risk, analyzing data from the S&P 500. We evaluated risk through measures such as **Expected Shortfall** and **Entropic Value at Risk**. Our findings provided insights into managing risk under extreme market conditions. This project was carried out in collaboration with **BNP Paribas Asset Management**.
 
-#### 2. **Pylos AI Player**
+### **Pylos AI - Dec 2022**
 
+<p align="center">
 <img src="https://www.artofplay.com/cdn/shop/products/PylosGame-1.png?v=1636415893&width=500" alt="Pyramid Game" width="300"/>
+</p>
 
 For the course "Computational Approach to Games" at CentraleSupélec, I developed an AI player for the **Pylos** board game using the **ALPHABETA algorithm**. The project involved implementing a heuristic function to optimize the AI's strategy and improve its performance. I was awarded one of the highest grades in this project, indicating the effectiveness of the AI I developed.
 
