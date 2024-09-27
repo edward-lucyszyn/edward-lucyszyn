@@ -22,7 +22,7 @@ I am actively seeking a summer internship in finance or software engineering.
 
 # My Projects
 
-## **Stochastic Finance Risk Modeling Project - Feb to Apr 2024**
+## Stochastic Finance Risk Modeling Project - Feb to Apr 2024 (see [here](https://raw.githubusercontent.com/edward-lucyszyn/portfolio-optimization/))
 
 ![Stochastic Finance](https://raw.githubusercontent.com/edward-lucyszyn/portfolio-optimization/main/assets/marko_frontier_alloc.png)
 
@@ -39,7 +39,7 @@ As part of my coursework at CentraleSupélec, I worked on a project that aimed t
 
 **Kidz'On** is an app designed to easily offer family activities, especially for children, close to your location! I developed the app **from scratch**, implementing **features such as user management, synchronized family accounts, nearby activity search, interactive map, automatic translation, authentication, and messaging**. The data comes from the website [kidzon.fr](kidzon.fr), which was created by a friend I partnered with for this mission. On the website, businesses can register their locations and activities. We also **set up the database, messaging system, and all backend features together**.
 
-## Acoustical Pollution Control Optimization Project
+## Acoustical Pollution Control Optimization Project - Nov 2023
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/edward-lucyszyn/acoustic-optimization-problem/main/results/fig_u0_re_plot.jpg" width="400" />
