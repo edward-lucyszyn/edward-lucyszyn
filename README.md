@@ -28,6 +28,18 @@ I am actively seeking a summer internship in finance or software engineering.
 
 As part of my coursework at CentraleSupélec, I worked on a project that aimed to optimize an investment portfolio using financial data. With a team, we applied **Markowitz's portfolio theory** to maximize returns while minimizing risk, analyzing data from the S&P 500. We evaluated risk through measures such as **Expected Shortfall** and **Entropic Value at Risk**. Our findings provided insights into managing risk under extreme market conditions. This project was carried out in collaboration with **BNP Paribas Asset Management**.
 
+### Kidz'On Application - Mar 2024 to Sep 2024
+
+<p align="center">
+  <img src="kidzon_app/map.png" width="200" />
+  <img src="kidzon_app/bookings.png" width="200" />
+  <img src="kidzon_app/my_space.png" width="200" />
+  <img src="kidzon_app/my_family.png" width="200" />
+</p>
+
+**Kidz'On** is an app designed to easily offer family activities, especially for children, close to your location! I developed the app **from scratch**, implementing **features such as user management, synchronized family accounts, nearby activity search, interactive map, automatic translation, authentication, and messaging**. The data comes from the website [kidzon.fr](kidzon.fr), which was created by a friend I partnered with for this mission. On the website, businesses can register their locations and activities. We also **set up the database, messaging system, and all backend features together**.
+
+
 ### **Pylos AI - Dec 2022**
 
 <p align="center">
