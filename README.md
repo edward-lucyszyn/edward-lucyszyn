@@ -20,15 +20,15 @@ I am actively seeking a summer internship in finance or software engineering.
 
 ---
 
-## Projects
+# Projects
 
-### **Stochastic Finance Risk Modeling Project - Feb to Apr 2024**
+## **Stochastic Finance Risk Modeling Project - Feb to Apr 2024**
 
 ![Stochastic Finance](https://raw.githubusercontent.com/edward-lucyszyn/portfolio-optimization/main/assets/marko_frontier_alloc.png)
 
 As part of my coursework at CentraleSupélec, I worked on a project that aimed to optimize an investment portfolio using financial data. With a team, we applied **Markowitz's portfolio theory** to maximize returns while minimizing risk, analyzing data from the S&P 500. We evaluated risk through measures such as **Expected Shortfall** and **Entropic Value at Risk**. Our findings provided insights into managing risk under extreme market conditions. This project was carried out in collaboration with **BNP Paribas Asset Management**.
 
-### Kidz'On Application - Mar 2024 to Sep 2024
+## Kidz'On Application - Mar 2024 to Sep 2024
 
 <p align="center">
   <img src="kidzon_app/map.png" width="200" />
@@ -39,8 +39,20 @@ As part of my coursework at CentraleSupélec, I worked on a project that aimed t
 
 **Kidz'On** is an app designed to easily offer family activities, especially for children, close to your location! I developed the app **from scratch**, implementing **features such as user management, synchronized family accounts, nearby activity search, interactive map, automatic translation, authentication, and messaging**. The data comes from the website [kidzon.fr](kidzon.fr), which was created by a friend I partnered with for this mission. On the website, businesses can register their locations and activities. We also **set up the database, messaging system, and all backend features together**.
 
+## Acoustical Pollution Control Optimization Project
 
-### **Pylos AI - Dec 2022**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/edward-lucyszyn/acoustic-optimization-problem/main/results/fig_u0_re_plot.jpg" width="400" />
+  <img src="https://raw.githubusercontent.com/edward-lucyszyn/acoustic-optimization-problem/main/results/fig_un_re_plot.jpg" width="400" />
+  <img src="https://raw.githubusercontent.com/edward-lucyszyn/acoustic-optimization-problem/main/results/fig_chi0_re_plot.jpg" width="400" />
+  <img src="https://raw.githubusercontent.com/edward-lucyszyn/acoustic-optimization-problem/main/results/fig_chin_re_plot.jpg" width="400" />
+</p>
+
+This five-days project focuses on reducing noise in environments such as aircraft reactors by optimizing the distribution of sound-absorbing materials. Using finite difference methods to solve the Helmholtz equation, we implemented a gradient descent optimization algorithm to find the best material placement for minimizing energy across a range of frequencies. The project involved both numerical and theoretical analyses, exploring fractal geometries and material efficiency.
+
+Our findings demonstrated significant noise reduction using optimized fractal surfaces, leading to improved sound attenuation and material efficiency.
+
+## **Pylos AI - Dec 2022**
 
 <p align="center">
 <img src="https://www.artofplay.com/cdn/shop/products/PylosGame-1.png?v=1636415893&width=500" alt="Pyramid Game" width="300"/>
