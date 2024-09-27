@@ -11,12 +11,11 @@ I am currently pursuing a Master of Science in Management Science and Engineerin
 I am actively seeking a summer internship in finance or software engineering.
 
 ### Skills
-- Python
+- Python (very advacned
 - SQL
 - LaTeX
 - Git and server administration
 - Dart
-- JavaScript
 - React Native
 
 ---
