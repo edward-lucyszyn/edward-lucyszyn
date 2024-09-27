@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Edward
 #### I am a student at Columbia University
-![I am student at Columbia University](https://images.collegedunia.com/public/college_data/images/studyabroad/appImage/college_1711_29-14:57_Columbia_University.jpeg)
+![I am student at Columbia University](banner.jpg)
 
 Passionate about mathematics and computer science from an early age, I pursued scientific preparatory classes at Lycée Carnot before joining CentraleSupélec, one of the top engineering schools in France and part of the Université Paris-Saclay. During my two years at CentraleSupélec, I pursued a Master of Science in Engineering, specializing in finance and probabilities, taking courses in stochastic finance, risk modeling, optimization, and machine learning.
 
