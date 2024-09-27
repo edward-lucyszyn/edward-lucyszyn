@@ -8,7 +8,7 @@ I have been involved in various practical projects, including implementing and o
 
 I am currently pursuing a Master of Science in Management Science and Engineering at Columbia University, taking courses such as Data-Driven Methods in finance and optimization models.
 
-I am actively seeking a summer internship in finance or software engineering.
+I am actively seeking a summer internship in quant research or software engineering.
 
 ### Skills
 - Python (very advacned
