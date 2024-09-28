@@ -20,7 +20,7 @@ I am actively seeking a summer internship in quant research or software engineer
 
 ---
 
-# My Projects
+# My Projects / My Work
 
 ## Stochastic Finance Risk Modeling Project - Feb to Apr 2024 (see [here](https://github.com/edward-lucyszyn/portfolio-optimization))
 
@@ -59,5 +59,20 @@ Our findings demonstrated significant noise reduction using optimized fractal su
 </p>
 
 For the course "Computational Approach to Games" at CentraleSupélec, I developed an AI player for the **Pylos** board game using the **ALPHABETA algorithm**. The project involved implementing a heuristic function to optimize the AI's strategy and improve its performance. I was awarded one of the highest grades in this project, indicating the effectiveness of the AI I developed.
+
+## Courses, Reports, Lectures Notes, Assignments Repository - Since Sep 2022
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/edward-lucyszyn/assignments-notes/main/Logos/logo_centralesupelec.jpg" width="414" />
+  <img src="https://raw.githubusercontent.com/edward-lucyszyn/assignments-notes/main/Logos/logo_columbia.jpg" width="200" />
+</p>
+
+This repository contains LaTeX files related to various courses. The content is organized into three main categories:
+
+- **Assignments**: Coursework and problem sets completed during the semester.
+- **Project Reports**: Detailed reports on projects carried out as part of course requirements.
+- **Notes**: Personal notes taken during lectures or study sessions.
+
+There is also a collection of compiled PDFs located in the folder `Examples of PDF`, providing a condensed version of some of the documents.
 
 ---
