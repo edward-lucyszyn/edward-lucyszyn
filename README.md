@@ -20,7 +20,7 @@ I am actively seeking a summer internship in quant research or software engineer
 
 ---
 
-# Some of my projects/ works
+# Some of my projects/works
 
 ## Stochastic Finance Risk Modeling Project - Feb to Apr 2024 (see [here](https://github.com/edward-lucyszyn/portfolio-optimization))
 
