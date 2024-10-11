@@ -11,7 +11,7 @@ I am currently pursuing a Master of Science in Management Science and Engineerin
 I am actively seeking a summer internship in quant research or software engineering.
 
 ### Skills
-- Python (very advacned
+- Python
 - SQL
 - LaTeX
 - Git and server administration
