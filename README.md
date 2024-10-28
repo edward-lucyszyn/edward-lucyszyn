@@ -60,7 +60,7 @@ Our findings demonstrated significant noise reduction using optimized fractal su
 
 For the course "Computational Approach to Games" at CentraleSupélec, I developed an AI player for the **Pylos** board game using the **ALPHABETA algorithm**. The project involved implementing a heuristic function to optimize the AI's strategy and improve its performance. I was awarded one of the highest grades in this project, indicating the effectiveness of the AI I developed.
 
-## Courses, Reports, Lectures Notes, Assignments Repository - Since Sep 2022 (see [here](https://github.com/edward-lucyszyn/assignments-notes))
+## Courses, Reports, Lectures Notes, Assignments Repository - Since Sep 2022 (private repo, ask me if needed)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/edward-lucyszyn/assignments-notes/main/Logos/logo_centralesupelec.jpg" width="414" />
