@@ -6,19 +6,6 @@ Passionate about mathematics from an early age, I like thinking about scientific
 
 Regarding my education, I attended scientific preparatory classes at Lycée Carnot for two years before joining CentraleSupélec, an engineering school in France that is part of the Université Paris-Saclay. During my two years at CentraleSupélec, I pursued a Master of Science in Engineering, specializing in mathematical modeling, and took courses in theoretical mathematics, applied mathematics, computer science, and finance. Instead of completing my third year there, I decided to pursue a dual degree by enrolling in the Master of Science in Operations Research program at Columbia University, specializing in applied mathematics, data science, and finance.
 
-Regarding the rest, I am a human: I really enjoy listening to music, cinema, math olympiads, programming and video games.
-
-I am actively seeking a summer internship in Software Engineering, Data Science, or Quantitative Finance.
-
-### Skills
-- Python
-- C++
-- SQL
-- LaTeX
-- Git and server administration
-- Dart
-- React Native
-
 ---
 
 # Some of my projects/works
